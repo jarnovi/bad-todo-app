@@ -26,6 +26,6 @@ _configurator:
 _main:
     resource: routing.yml
     
-tehttodoBundle:
+_tehttodoBundle:
     resource: "@tehttodoBundle/Resources/config/routing.yml"
-    prefix:   /todo
+    prefix:   /

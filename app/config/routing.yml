@@ -1,6 +1,6 @@
-tehttodoBundle:
+_tehttodoBundle:
     resource: "@tehttodoBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /todo/{name}
 
 # Internal routing configuration to handle ESI
 #_internal:
