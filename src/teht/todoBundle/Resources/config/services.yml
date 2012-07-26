@@ -1,0 +1,7 @@
+parameters:
+#    tehttodo.example.class: teht\todoBundle\Example
+
+services:
+#    tehttodo.example:
+#        class: %tehttodo.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

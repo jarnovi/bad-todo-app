@@ -1,0 +1,3 @@
+tehttodoBundle_homepage:
+    pattern:  /todo/{name}
+    defaults: { _controller: tehttodoBundle:Default:index }
